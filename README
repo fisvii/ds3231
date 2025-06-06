@@ -15,3 +15,5 @@
   (RTC) with an integrated temperature-compensated crystal oscillator 
   (TCXO) and crystal.
 
+
+Example sketches are provided in the examples directory. `rtc_ds3231_time_temp` shows how to print the current time along with the temperature every five seconds.
